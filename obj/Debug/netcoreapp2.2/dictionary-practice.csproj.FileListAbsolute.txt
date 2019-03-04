@@ -1,0 +1,11 @@
+C:\Users\Jordan\backend\workspace\dictionary-practice\bin\Debug\netcoreapp2.2\dictionary-practice.deps.json
+C:\Users\Jordan\backend\workspace\dictionary-practice\bin\Debug\netcoreapp2.2\dictionary-practice.runtimeconfig.json
+C:\Users\Jordan\backend\workspace\dictionary-practice\bin\Debug\netcoreapp2.2\dictionary-practice.runtimeconfig.dev.json
+C:\Users\Jordan\backend\workspace\dictionary-practice\bin\Debug\netcoreapp2.2\dictionary-practice.dll
+C:\Users\Jordan\backend\workspace\dictionary-practice\bin\Debug\netcoreapp2.2\dictionary-practice.pdb
+C:\Users\Jordan\backend\workspace\dictionary-practice\obj\Debug\netcoreapp2.2\dictionary-practice.csprojAssemblyReference.cache
+C:\Users\Jordan\backend\workspace\dictionary-practice\obj\Debug\netcoreapp2.2\dictionary-practice.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\backend\workspace\dictionary-practice\obj\Debug\netcoreapp2.2\dictionary-practice.AssemblyInfoInputs.cache
+C:\Users\Jordan\backend\workspace\dictionary-practice\obj\Debug\netcoreapp2.2\dictionary-practice.AssemblyInfo.cs
+C:\Users\Jordan\backend\workspace\dictionary-practice\obj\Debug\netcoreapp2.2\dictionary-practice.dll
+C:\Users\Jordan\backend\workspace\dictionary-practice\obj\Debug\netcoreapp2.2\dictionary-practice.pdb
